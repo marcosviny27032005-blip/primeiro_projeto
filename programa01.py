@@ -1,9 +1,9 @@
-print("hello word")
-ultimo_nome = "Silva"
-idade = 21
-altura = 1.71
-peso = 58
-maior_de_idade = True
+print("hello word")    #str - string
+ultimo_nome = "Silva"  # str - string
+idade = 21             # int - numeros inteiro
+altura = 1.71          # float - ponto flutuante (NUMERO COM VITRGULA)
+peso = 58              # float -
+maior_de_idade = True  # bool -
 print("cavalo salamaleico da silva")
 nome = "Marcos"
 print("Olá ",nome)
